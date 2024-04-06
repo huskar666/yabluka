@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.icon{
+    width: 20px;
+    height: 20px;
+}
+.product{
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    box-shadow: 1px 1px 10px 1px  black;
+    margin-top: 200px;
+    padding: 10px;
+    position: relative;
+}
+img{
+    display: block;
+    max-width: 100%;
+}
+.box-buttons{
+    position: absolute;
+    top: 60px;
+    left: 60px;
+   
+}
+.product-meta{
+    position: absolute;
+    left: 15px;
+    top: 150px;
+    font-size: small;
+}
+.box{
+    width: 180px;
+    height: 130px;
+    border: 2px solid rgb(255, 230, 0);
+}
+.img{
+    width: 120px;
+    height: 110px;
+    position: absolute;
+    left: 40px;
+    top: 20px;
+}
